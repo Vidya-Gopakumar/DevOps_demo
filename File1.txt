@@ -1,0 +1,9 @@
+hello vidya
+:w
+
+i
+i
+A
+:wq
+
+
